@@ -88,7 +88,7 @@ export const updateProfile = async (req: Request, res: Response) => {
 export const getUsers = async (req: Request, res: Response) => {
   try {
     // Find all users
-    const users = await User.find();
+      const users = await User.find();
 
     // Send success response with users data
     successResponse(res, users, 'Users retrieved successfully');
