@@ -1,7 +1,4 @@
 # User Management System - Backend
-<!-- Using HTML for a link that opens in a new tab -->
-<a href="https://example.com" target="_blank">Click here to open in a new tab</a>
-
 
 This is the backend application for the User Management System. It provides an API for user authentication and management.
 
