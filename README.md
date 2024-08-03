@@ -2,6 +2,8 @@
 
 This is the backend application for the User Management System. It provides an API for user authentication and management.
 
+[Live Backend](https://user-management-backend-a68g.onrender.com/)
+
 ## Prerequisites
 
 Before you begin, ensure you have met the following requirements:
