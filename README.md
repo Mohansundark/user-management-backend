@@ -42,7 +42,7 @@ Create a `.env` file in the root directory of the project and add the necessary 
 
 ```env
 PORT=5000
-MONGO_URI=<your-mongodb-uri>
+MONGODB_URI=<your-mongodb-uri>
 JWT_SECRET=<your-jwt-secret>
 ```
 
